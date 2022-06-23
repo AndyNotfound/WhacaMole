@@ -1,5 +1,5 @@
 # WhacaMole
-Just Some Typical JavaScript practice - Whac a Mole Game.
+Just Some Typical JavaScript practice - Whac a Mole Game. Please, don't mind the User Interface, I didn't put any work to it.
 
 ## Feature
 <ul>
